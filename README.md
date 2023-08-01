@@ -10,4 +10,4 @@ My main programming languages are
 - Python
 - Javascript
 
-While all my contributions are marked and managed via this profile to upstreams with PRs, a bunch of my other repos also exist at [koushikr](https://github.com/koushikr) and managed there. 
+While all my contributions are marked and managed, a bunch of my other repos also exist at [koushikr](https://github.com/koushikr) and managed there. 
